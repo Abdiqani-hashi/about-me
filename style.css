@@ -1,0 +1,40 @@
+
+
+header{
+    background-color: #c6e4e4;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.sub-main{
+    background-color: rgb(235, 227, 227);
+    width: 320px;
+    margin: 0 auto;
+    padding: 62px;
+    margin-top:40px;
+    margin-bottom:  90px;;
+
+}
+
+.upper-footer{
+    background-color:#00FFFF ;
+    width: 100%;
+    text-align: center;
+    margin-bottom: -16px;
+
+    padding: 30px;
+}
+
+footer{
+    background-color: #00FFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+
+
+
+
